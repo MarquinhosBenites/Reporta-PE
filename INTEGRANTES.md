@@ -1,6 +1,6 @@
 # Gestión de la Configuración del Software - Grupo 8
 ## Integrantes:
-- Benites Meza, Marco
+- Benites Meza, Marco Fabricio
 - Castillo Carranza, Jose Richard
 - Chaco, José Luis
 - Cueva Mantura, Alvaro Bertilo
